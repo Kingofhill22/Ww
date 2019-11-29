@@ -1,0 +1,116 @@
+#supers{
+    background-image:url(poki.png) ; 
+    border: 1px    ;
+	width:700px;
+	height:600px;
+	margin-left:350px;
+	border-radius: 20px;
+	margin-top:18px;
+	
+}
+#log{
+	 background-image:url(digitech.png) ; 
+}
+#cli{
+	
+}
+
+#name{
+  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+  margin-left:130px;
+}
+
+#team {
+  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+ margin-left:130px;
+	
+}
+
+#teacher{
+	  width: 60%;
+padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+  margin-left:130px;
+}
+
+#email{
+	  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+  margin-left:130px;
+}
+
+#city{
+	  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+  margin-left:130px;
+}
+
+#school{
+	  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+   margin-left:130px;
+}
+
+#class{
+	  width: 60%;
+  padding: 9px 18px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 3px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-right:500px;
+  margin-left:130px;
+}
+body {
+	background: url(dok.jpg) no-repeat center 	;
+	background-size: 140%;
+	margin:auto;
+	
+}
+#main{
+	width:500px
+    
+}
+.kk{
+  margin-right: 500px;
+  margin-left: 500px;
+	
+}
